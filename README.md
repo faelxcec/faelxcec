@@ -1,4 +1,4 @@
-## Olá, eu me chamo Rafael Benjamin 👋
+## Olá, eu me chamo Rafael Benjamin <img src="icons8-dev-50.png" width=30em>
 - 🌱 I’m currently learning JavaScript, HTML e CSS
 - 😄 Pronouns: Ele/dele
 ### Clique abaixo para saber mais sobre mim :point_down:
